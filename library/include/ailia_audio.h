@@ -2,13 +2,13 @@
  * \~japanese
  * @file ailia_audio.h
  * @brief 音響信号処理用ライブラリ
- * @copyright AXELL CORPORATION, ax Inc.
+ * @copyright AXELL CORPORATION, ailia Inc.
  * @date 2021/07/28
  *
  * \~english
  * @file ailia_audio.h
  * @brief audio processing library
- * @copyright AXELL CORPORATION, ax Inc.
+ * @copyright AXELL CORPORATION, ailia Inc.
  * @date 2021/07/28
  */
 
